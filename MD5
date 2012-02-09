@@ -1,0 +1,16 @@
+9a6eb9855c6906e92c0c217a8a40594b *CHANGELOG
+8e4a17929b9d2a365abf0be220e573d4 *DESCRIPTION
+eb723b61539feef013de476e68b5c50a *LICENSE
+e1c06d85ae7b8b032bef47e42e4c08f9 *NAMESPACE
+64690d48742eb9d8541209d8694ff008 *data/CCES.complete.rda
+d8d2b3e186267ea9f19fda7e90825387 *data/datalist
+6b8956103d85c68e84e9569e1f32dc08 *data/mrp.census.rda
+b21e62e3edc798ef5b9664eccb2ee4de *data/mrp.regions.rda
+847c214ce94ffe2325a8ef106dfee740 *data/samesexmarriage.rda
+2327f5c6054663a886cc01bb68f105c2 *data/spmap.states.rda
+0f2a348640c230426181bcee7d6539b7 *man/CCES.complete.Rd
+9b5d1ad228c0c3ad98b2b01240892201 *man/mrp.census.Rd
+53b16ba192a69faba20601eb1ef663a7 *man/mrp.regions.Rd
+254c0088553c091068ab960b37d642f9 *man/mrpdata.Rd
+21970e3e97102d9fe6aaf917eb0e9e86 *man/samesexmarriage.Rd
+be1334b8d46dab02e48f7d646682374e *man/spmap.states.Rd
